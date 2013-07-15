@@ -12,9 +12,9 @@ http://gruntjs.com/
 ####手順
 1. Node.jsをインストールしておきます。
 1. Gruntのコマンドを使えるようにnpmのグローバルにインストールします。
-* `npm install -g grunt-cli`
+ * `npm install -g grunt-cli`
 1. npmをプロジェクトディレクトリにインストールします。
-* プロジェクトディレクトリにpackage.jsonを作成します。
-* `npm install`
+ * プロジェクトディレクトリにpackage.jsonを作成します。
+ * `npm install`
 1. Gruntを設定します。
-* Gruntfile.jsを作成します。
+ * Gruntfile.jsを作成します。
