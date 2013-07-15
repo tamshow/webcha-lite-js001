@@ -6,17 +6,14 @@
 
 ####Gruntとは？
 JavaScriptのタスクランナー
-
 http://gruntjs.com/
 
 ####手順
 1. Node.jsをインストールしておきます。
-2. Gruntのコマンドを使えるようにnpmのグローバルにインストールします。
-
+1. Gruntのコマンドを使えるようにnpmのグローバルにインストールします。
 `npm install -g grunt-cli`
-3. npmをプロジェクトディレクトリにインストールします。
+1. npmをプロジェクトディレクトリにインストールします。
 * プロジェクトディレクトリにpackage.jsonを作成します。
-
 `npm install`
-4. Gruntを設定します。
+1. Gruntを設定します。
 * Gruntfile.jsを作成します。
