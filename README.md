@@ -15,6 +15,6 @@ http://gruntjs.com/
  - `npm install -g grunt-cli`
 1. npmをプロジェクトディレクトリにインストールします。
  - プロジェクトディレクトリにpackage.jsonを作成します。
- -`npm install`
+ - `npm install`
 1. Gruntを設定します。
  - Gruntfile.jsを作成します。
