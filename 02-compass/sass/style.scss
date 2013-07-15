@@ -1,0 +1,27 @@
+
+
+/*
+
+インストール：
+sudo gem install compass
+バージョン：
+compass -v
+compassディレクトリを作成：
+compass create
+watch：
+compass watch
+
+*/
+
+h1{}
+
+h2{}
+
+.lead{ background-color: #ccc;}
+.list{
+  li{
+    color:#ccc;
+  }
+}
+
+

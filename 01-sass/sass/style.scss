@@ -1,0 +1,25 @@
+
+
+/*
+
+インストール：
+sudo gem install sass
+バージョン：
+sass -v
+watch：
+sass --watch sass:css --style expanded
+
+*/
+
+h1{}
+
+h2{}
+
+.lead{ background-color: #ccc;}
+.list{
+  li{
+    color:#ccc;
+  }
+}
+
+
