@@ -1,10 +1,8 @@
  webっちゃlite JavaScript研究会 第1回
 ===========
 
-Gruntでsassをwatchする
 
-
-### 「JavaScriptのタスクランナーGruntでsassをwatchする」の資料です。
+### 「JavaScriptのタスクランナーGruntでsassをwatchする」
 
 ####Gruntとは？
 JavaScriptのタスクランナー
