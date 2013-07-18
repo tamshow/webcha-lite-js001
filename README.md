@@ -1,4 +1,4 @@
- webっちゃlite 第1回
+ webっちゃlite 第1回 JavaScript vol.01
 ===========
 
 
