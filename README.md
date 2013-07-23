@@ -1,4 +1,4 @@
- webっちゃlite 第1回 JavaScript vol.01
+ webっちゃlite JavaScript研究会 第1回 
 ===========
 
 
