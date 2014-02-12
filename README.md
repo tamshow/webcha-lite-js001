@@ -1,4 +1,4 @@
- webっちゃlite JavaScript研究会 第1回 
+ webっちゃlite  第1回
 ===========
 
 
@@ -18,3 +18,10 @@ http://gruntjs.com/
  * `npm install`
 1. Gruntを設定します。
  * Gruntfile.jsを作成します。
+
+
+
+### 履歴
+
++ 2014.02.12 : マカベン資料追加.
+
